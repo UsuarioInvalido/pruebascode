@@ -1,9 +1,10 @@
 nhbk
 peru
 everis
-filtración
+filtraciÃ³n
 datos
 hbk
 apim
 bcp
-banco de crédito
+banco de crÃ©dito
+everisyou
